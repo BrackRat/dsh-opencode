@@ -1,0 +1,6 @@
+# dsh-opencode-session — bundle patch: mount the host plugin under its package
+# name, resolved through the profile's node_modules by `dsh plugin --profile
+# <name> add dsh-opencode-session`.
+- insert:
+    - id: opencode-session-header
+      name: dsh-opencode-session

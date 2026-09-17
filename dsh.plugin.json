@@ -1,0 +1,11 @@
+{
+  "name": "dsh-opencode-session",
+  "description": "Send the x-opencode-session header opencode.ai's gateway requires on opencode / opencode-go routes",
+  "version": "0.1.0",
+  "entry": {
+    "name": "dsh-opencode-session",
+    "inject": [
+      "llm"
+    ]
+  }
+}
