@@ -38,11 +38,21 @@
   },
   "keywords": [
     "dsh",
+    "dsh-plugin",
     "deepseek-harness",
+    "deepseek",
     "cordis",
+    "cordis-plugin",
     "plugin",
     "opencode",
-    "opencode-go"
+    "opencode-go",
+    "opencode-ai",
+    "x-opencode-session",
+    "missing-session-id",
+    "pi-ai",
+    "llm",
+    "ai-agent",
+    "compatibility"
   ],
   "scripts": {
     "test": "node --test"
