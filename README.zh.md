@@ -2,7 +2,7 @@
 
 ![dsh-opencode —— 修复 opencode.ai 400 MissingSessionID 的 DeepSeek Harness 插件（x-opencode-session）](assets/Social_Preview.png)
 
-[![test](https://github.com/BrackRat/dsh-opencode/actions/workflows/test.yml/badge.svg)](https://github.com/BrackRat/dsh-opencode/actions/workflows/test.yml)
+[![test](https://github.com/BrackRat/dsh-opencode-session/actions/workflows/test.yml/badge.svg)](https://github.com/BrackRat/dsh-opencode-session/actions/workflows/test.yml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![dsh](https://img.shields.io/badge/dsh-%3E%3D0.1.5--rc.1-blue)](https://github.com/deepseek-ai/deepseek-harness)
 
@@ -39,7 +39,7 @@ pi coding agent 在自身的 provider-attribution 层发送了这个头；但 ds
 
 ```bash
 # 从 GitHub 安装（现在就能用）
-dsh plugin --profile web add github:BrackRat/dsh-opencode
+dsh plugin --profile web add github:BrackRat/dsh-opencode-session
 
 # 从 npm 安装（发布后）
 dsh plugin --profile web add dsh-opencode-session

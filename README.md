@@ -2,7 +2,7 @@
 
 ![dsh-opencode — DeepSeek Harness plugin that fixes opencode.ai's 400 MissingSessionID by sending the x-opencode-session header on opencode / opencode-go routes](assets/Social_Preview.png)
 
-[![test](https://github.com/BrackRat/dsh-opencode/actions/workflows/test.yml/badge.svg)](https://github.com/BrackRat/dsh-opencode/actions/workflows/test.yml)
+[![test](https://github.com/BrackRat/dsh-opencode-session/actions/workflows/test.yml/badge.svg)](https://github.com/BrackRat/dsh-opencode-session/actions/workflows/test.yml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![dsh](https://img.shields.io/badge/dsh-%3E%3D0.1.5--rc.1-blue)](https://github.com/deepseek-ai/deepseek-harness)
 
@@ -38,7 +38,7 @@ This plugin restores parity.
 
 ```bash
 # from GitHub (works today)
-dsh plugin --profile web add github:BrackRat/dsh-opencode
+dsh plugin --profile web add github:BrackRat/dsh-opencode-session
 
 # from npm (once published)
 dsh plugin --profile web add dsh-opencode-session

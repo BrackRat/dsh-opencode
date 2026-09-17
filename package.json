@@ -5,12 +5,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrackRat/dsh-opencode.git"
+    "url": "git+https://github.com/BrackRat/dsh-opencode-session.git"
   },
   "bugs": {
-    "url": "https://github.com/BrackRat/dsh-opencode/issues"
+    "url": "https://github.com/BrackRat/dsh-opencode-session/issues"
   },
-  "homepage": "https://github.com/BrackRat/dsh-opencode#readme",
+  "homepage": "https://github.com/BrackRat/dsh-opencode-session#readme",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
