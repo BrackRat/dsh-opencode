@@ -29,7 +29,7 @@ This plugin restores parity.
 dsh plugin --profile web add dsh-opencode-session
 
 # straight from GitHub
-dsh plugin --profile web add github:<you>/dsh-opencode
+dsh plugin --profile web add github:BrackRat/dsh-opencode
 
 # from a local checkout or tarball
 dsh plugin --profile web add /path/to/dsh-opencode

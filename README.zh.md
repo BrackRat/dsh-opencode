@@ -28,7 +28,7 @@ pi coding agent 在自身的 provider-attribution 层发送了这个头，但 ds
 dsh plugin --profile web add dsh-opencode-session
 
 # 直接从 GitHub 安装
-dsh plugin --profile web add github:<you>/dsh-opencode
+dsh plugin --profile web add github:BrackRat/dsh-opencode
 
 # 从本地目录或 tarball 安装
 dsh plugin --profile web add /path/to/dsh-opencode

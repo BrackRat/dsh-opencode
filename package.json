@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "description": "DeepSeek Harness compatibility plugin: send the x-opencode-session header opencode.ai's gateway requires on opencode / opencode-go routes.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrackRat/dsh-opencode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrackRat/dsh-opencode/issues"
+  },
+  "homepage": "https://github.com/BrackRat/dsh-opencode#readme",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
