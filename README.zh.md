@@ -1,5 +1,7 @@
 # dsh-opencode-session
 
+![dsh-opencode —— 修复 opencode.ai 400 MissingSessionID 的 DeepSeek Harness 插件（x-opencode-session）](assets/Social_Preview.png)
+
 [![test](https://github.com/BrackRat/dsh-opencode/actions/workflows/test.yml/badge.svg)](https://github.com/BrackRat/dsh-opencode/actions/workflows/test.yml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![dsh](https://img.shields.io/badge/dsh-%3E%3D0.1.5--rc.1-blue)](https://github.com/deepseek-ai/deepseek-harness)
